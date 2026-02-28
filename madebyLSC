@@ -3,6 +3,7 @@ getgenv().TARGET_ID = 3512766896
 getgenv().DELAY_STEP = 1      
 getgenv().TRADE_CYCLE_DELAY = 2 
 getgenv().TARGET_BRAINROTS = {
+    ["Noobini Pizzanini"] = true,
     ["Meowl"] = true,
     ["Skibidi Toilet"] = true,
     ["Strawberry Elephant"] = true,
